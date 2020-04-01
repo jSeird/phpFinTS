@@ -936,7 +936,7 @@ This library is verified to work with following banks.
 - [ ] Sparkasse Odenwaldkreis
 - [ ] Sparkasse Oder-Spree
 - [ ] Sparkasse Offenbach
-- [ ] Sparkasse Offenburg/Ortenau
+- [x] Sparkasse Offenburg/Ortenau
 - [ ] Sparkasse Olpe-Drolshagen-Wenden
 - [ ] Sparkasse Osnabrück
 - [ ] Sparkasse Osterode am Harz
